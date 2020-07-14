@@ -1,0 +1,35 @@
+{
+	"profiles":[
+		{
+			"basic":{
+				"name":"Satya.P",
+				"role":"Web Developer",
+				"phone":"869869096",
+				"email":"satya.p@gmail.com",
+				"address":"Visakhapatnam",
+				"career":"Career Objective",
+				"detail":"To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills",
+				"hob":"Hobbies",
+				"hobbies":"Drawing & Craft work"
+			}
+		},
+		{
+			"basic":{
+				"name":"Devi.P",
+				"role":"S Developer",
+				"phone":"3565765678",
+				"email":"devi.p@gmail.com",
+                "address":"Visakhapatnam",
+                "career":"Career Objective",
+				"detail":"A highly organized and hard-working individual looking for a responsible position to gain practical experience",
+				"hob":"Hobbies",
+				"hobbies":"Cooking"
+			} 
+		}
+	],
+	"careerobjective":{
+		"info":"To become software developer"
+	}
+
+
+}
